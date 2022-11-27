@@ -7,7 +7,7 @@ Strona:
 https://anna-z-krk.github.io/kalkulator_zlotego_podzialu/
 
 CEL:
-- stworzenie kalkulatora złotego podziału dla ułatienia projektowania
+- stworzenie kalkulatora złotego podziału dla ułatwienia projektowania
 
 ZASTOSOWANE:
 - Visual Studio Code
