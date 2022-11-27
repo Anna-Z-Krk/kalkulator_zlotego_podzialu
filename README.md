@@ -3,7 +3,7 @@
 
 Prosty kalkulator złotego podziału wg wytycznych: stosunek długości dłuższej części do krótszej ma być taki sam, jak całego odcinka do części dłuższej.
 
-!(https://github.com/Anna-Z-Krk/kalkulator_zlotego_podzialu/blob/main/zloty_podzial_preview.png)
+![Preview:](https://github.com/Anna-Z-Krk/kalkulator_zlotego_podzialu/blob/main/zloty_podzial_preview.png)
 
 
 Strona:
